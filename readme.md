@@ -2,25 +2,27 @@
 
 This project of a simple adventure game was created by 4 college students of business information systems during their first semester at the University of Applied Sciences - Hochschule Karlsruhe. The game was programmed in c# with simple algorithms and object structures.
 
+***Work sample:***
+
 https://youtu.be/8LXClhxrSWE
 
 
 
 ## Impressions
 
-GUI in Windows Forms
+##### GUI in Windows Forms
 
 ![WindowsFormsGUI](https://github.com/LangeJustin/AdventureGame/blob/master/description/windowsFormsGUI.PNG)
 
-Starting the Game
+##### Starting the Game
 
 ![startGame](https://github.com/LangeJustin/AdventureGame/blob/master/description/startGame.PNG)
 
-Attacking monsters
+##### Attacking monsters
 
 ![attackMonsters](https://github.com/LangeJustin/AdventureGame/blob/master/description/attackMonsters.PNG)
 
-Gambling with deamon powers
+##### Gambling with deamon powers
 
 ![gamblingHell](https://github.com/LangeJustin/AdventureGame/blob/master/description/gamblingHell.PNG)
 
@@ -176,10 +178,3 @@ private void buttonLoot_Click(object sender, EventArgs e)
 - **Justin Lange**
 - **Niklas Weber**
 - **Simon Broß** 
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
